@@ -13,4 +13,4 @@
 
 ## 作业成果：
 ### 作业1：运行ros2 画直线
-[text](../img/week3) ![text](<../img/week3/作业 (1).jpg>) ![text](<../img/week3/作业 (3).jpg>)
+![alt text](week2/2-1.jpg)![alt text](week2/2-3.jpg) ![alt text](week2/2-2.jpg)

@@ -16,4 +16,4 @@
 
 ## 作业成果：
 ### 作业1：ros2  小乌龟画直线加机器狗
-![alt text](<../img/week3/作业 (3).jpg>) ![alt text](<../img/week3/作业 (1).jpg>)
+![alt text](week3/3-1.jpg)![alt text](week3/3-2.jpg) ![alt text](week3/3-3.jpg)

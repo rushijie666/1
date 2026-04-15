@@ -15,4 +15,5 @@
 今天我学会了启动 rqt kitti数据集
 姓名：여세걸
 
-![alt text](../img/week6/6-1.png)![alt text](../img/week6/6-2.png)
+![alt text](week6/6-1.png)
+![alt text](week6/6-2.png)
