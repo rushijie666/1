@@ -12,6 +12,8 @@
 
 ## 作业成果：
 ### 作业1：启动 rqt kitti数据集 
+今天我学会了启动 rqt kitti数据集
+姓名：여세걸
 
-
-![alt text](week6/6-1.png)![alt text](week6/6-2.png)
+![alt text](week6/6-1.png)
+![alt text](week6/6-2.png)
