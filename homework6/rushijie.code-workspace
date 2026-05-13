@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "rushijie",
-			"path": ".."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
